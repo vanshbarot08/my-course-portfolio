@@ -1,2 +1,18 @@
-# my-course-portfolio
-Portfolio of my work and projects for CEP146
+# My Course Portfolio
+
+Welcome to my academic portfolio for Essential Tooling For Programmers!
+
+## About Me
+- Name: Vansh Barot
+- Major: Computer Programming & Analysis
+- Year: 2025
+- Favorite Programming Language: [Your Choice]
+
+## Course Goals
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+
+## Projects
+*This section will be updated as I complete assignments*
