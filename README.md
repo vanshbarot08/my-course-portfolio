@@ -6,7 +6,7 @@ Welcome to my academic portfolio for Essential Tooling For Programmers!
 - Name: Vansh Barot
 - Major: Computer Programming & Analysis
 - Year: 2025
-- Favorite Programming Language: [Your Choice]
+- Favorite Programming Language: c++
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
